@@ -71,5 +71,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/moldy530/react-with-konami.git"
+  },
+  "dependencies": {
+    "react-use-konami": "^1.0.12"
   }
 }

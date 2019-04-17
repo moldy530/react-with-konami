@@ -6,7 +6,6 @@ module.exports = {
     ],
     rules: {
         'global-require': 'off',
-        "react-hooks/rules-of-hooks": 'error',
     },
     settings: {
         'import/resolver': {
