@@ -12,7 +12,7 @@ const pkg = require('../package.json');
 
 
 const commonConfig = {
-    input: 'src/index.ts',
+    input: 'src/index.tsx',
     external: [
         ...Object.keys(pkg.dependencies || {}),
         ...Object.keys(pkg.peerDependencies || {}),

@@ -9,7 +9,7 @@
     "/__integration__/"
   ],
   "transform": {
-    "^.+\\.(js|ts)$": "babel-jest"
+    "^.+\\.(js|ts|tsx)$": "babel-jest"
   },
   "testEnvironment": "jsdom",
   "setupFiles": [
